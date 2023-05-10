@@ -1,0 +1,99 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.body{
+  font-family: 'Forum', cursive;
+}
+#bdy{
+  background-color: #ced4de;
+}
+.row{
+  background-color: #93979e;
+}
+
+
+/* logo */
+#logo{
+  width: 100%;
+  height: 100%;
+  border: solid 3px #c5eaf7;
+}
+
+
+/* navbar */
+.fixed-top{
+  border-bottom: solid 3px #c5eaf7;
+}
+.navbar-brand{
+  font-weight: normal;
+  font-family: 'Lato', sans-serif;
+}
+
+#link{
+  color: black;
+  font-family: 'Lato', sans-serif;
+}
+#link:hover{
+  color: #74777b;
+}
+#link:active{
+  color: #74777b;
+  font-weight: bold;
+}
+
+
+/* section headings */
+.title{
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: white
+}
+.hr{
+  border: solid 1px #c5eaf7;
+}
+
+
+/* paragraphs */
+.wrds{
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+
+/* pictures */
+.picy{
+  border-radius: 99px;
+  border: solid 1px #c5eaf7;
+  vertical-align: center;
+}
+
+/* accordian */
+.accordian{
+  background-color: #ced4de;
+}
+#acolor{
+  background-color: #ced4de;
+}
+
+/* contact */
+.info-item{
+  background-color: #ced4de;
+  border: solid 1px #c5eaf7;
+  border-radius: 99px;
+  width: 100%;
+}
+.sub-but{
+  background-color: #ced4de;
+  border: solid 1px #c5eaf7;
+}
+
+
+/*footer*/
+.foot{
+  font-size: small;
+}
+#footer{
+  color: white;
+}
